@@ -1,0 +1,6 @@
+{
+  "name": "FEEDLINK",
+  "description": "Connecting People. Changing Lives. An interactive charity and community development platform for local food initiatives, volunteer mobilization, secure transparent donations, and neighbor-to-neighbor community connections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
